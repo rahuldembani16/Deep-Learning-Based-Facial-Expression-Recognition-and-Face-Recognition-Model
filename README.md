@@ -1,6 +1,6 @@
 # Deep-Learning-Based-Facial-Expression-Recognition-and-Face-Recognition-Model
 
-Masters Thesis
+Rahool Dembani - Masters Degree Thesis
 
 Deep Learning Based Facial Expression Recognition and Face Recognition Model
 This repository contains the code that I used to train the models mentioned in my Masters thesis. When processing data, I often omitted writing a script and worked in the python shell directly, for example while saving the AffectNet images into NumPy arrays.
